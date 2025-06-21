@@ -1,8 +1,8 @@
 package main
 
 import (
-	"fullstack/ecommerce-project/models"
-	"fullstack/ecommerce-project/storage"
+	"login-register-form/server/models"
+	"login-register-form/server/storage"
 	"log"
 	"net/http"
 	"os"
